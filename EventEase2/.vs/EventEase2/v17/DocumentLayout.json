@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|c:\\users\\samu\\documents\\cloud dev poe part1\\eventease2\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|c:\\users\\samu\\documents\\cloud dev poe part1\\eventease2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|c:\\users\\samu\\documents\\cloud dev poe part1\\eventease2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|c:\\users\\samu\\documents\\cloud dev poe part1\\eventease2\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{464252C5-97EC-46F7-8230-44C2F50FBD61}|EventEase2.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:11:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:02:41.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T10:12:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventEaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Data\\EventEaseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventEaseDbContext.cs",
+              "ToolTip": "C:\\Users\\Samu\\Documents\\Cloud Dev POE Part1\\EventEase2\\Data\\EventEaseDbContext.cs",
+              "RelativeToolTip": "Data\\EventEaseDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T10:09:10.951Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

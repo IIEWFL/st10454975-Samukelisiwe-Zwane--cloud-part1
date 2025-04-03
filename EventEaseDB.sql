@@ -1,0 +1,38 @@
+use master
+IF EXISTS (SELECT * FROM sys.databases WHERE name = 'EventEaseDB')
+DROP DATABASE EventEaseDB
+CREATE DATABASE EventEaseDB
+USE EventEaseDB
+
+--TABLE CREATION SECTION--
+
+CREATE TABLE Venues (
+
+VenueID INT PRIMARY KEY IDENTITY(1,1),
+VenueName VARCHAR(255) NOT NULL,
+[Location] VARCHAR(255),
+ImageURL VARCHAR(MAX)
+
+);
+
+CREATE TABLE [Event] (
+EventID INT PRIMARY KEY IDENTITY(1,1),
+EventName VARCHAR(255) NOT NULL,
+EventDate DATETIME,
+[Description] VARCHAR (MAX),
+VenueID INT FOREIGN KEY (VenueID) REFERENCES Venues(VenueID)
+
+);
+
+CREATE TABLE Booking(
+BookingID INT PRIMARY KEY IDENTITY (1,1),
+EventID INT FOREIGN KEY (EventID) REFERENCES [Event](EventID),
+VenueID INT FOREIGN KEY (VenueID) REFERENCES Venues(VenueID),
+BookingDate DATETIME NOT NULL,
+CONSTRAINT CK_UniqueVenueBookingTime UNIQUE (VenueID,BookingDate)
+
+);
+
+
+--stored procedures section--
+
